@@ -1,4 +1,3 @@
-                            AKSHAY SAINI            
 Lecture 1-5
     Node js is a js run time environment(when u write node in terminal, u get into node and there u can use js, execute js that’s why node is a js run time environment), 
     built on the top of chorme Browser V8 engine
