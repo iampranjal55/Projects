@@ -1,6 +1,5 @@
-    
-## Section 1: Lecture 1-5
-<details>
+                            AKSHAY SAINI            
+Lecture 1-5
     Node js is a js run time environment(when u write node in terminal, u get into node and there u can use js, execute js that’s why node is a js run time environment), 
     built on the top of chorme Browser V8 engine
         => cross platform (run on win,linux) almost all
@@ -14,7 +13,7 @@
                 thread is a container when we can run a program seprately
                 Multithread is a container when we can run a program together(share same memory and stuff)
             JavaScript is a syncronous , single threaded 
-</details>
+
     History of Node.js
         => Node.js was build and release in 2009, developed by Ryan dell.
         => ⏳2009(born) created by ryan dell, to run js u need js engine
