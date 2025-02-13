@@ -1,6 +1,5 @@
-<details>         
-<summary> Lecture 1-5 </summary>
-<details>
+                            AKSHAY SAINI            
+Lecture 1-5
     Node js is a js run time environment(when u write node in terminal, u get into node and there u can use js, execute js that’s why node is a js run time environment), 
     built on the top of chorme Browser V8 engine
         => cross platform (run on win,linux) almost all
@@ -14,8 +13,7 @@
                 thread is a container when we can run a program seprately
                 Multithread is a container when we can run a program together(share same memory and stuff)
             JavaScript is a syncronous , single threaded 
-</details>
-<details>
+
     History of Node.js
         => Node.js was build and release in 2009, developed by Ryan dell.
         => ⏳2009(born) created by ryan dell, to run js u need js engine
@@ -39,15 +37,13 @@
             now 2 nodejs comes😂 diff release cycle, diff development etc.
         => ⏳2015(nodejs foundation) it was a commity who maintain the node, not single merge(everything merged) and node commity manage and made single node.
         => ⏳2019(js foundation(commity) + nodejs foundation(commity) = openjs foundation(commity)) took the controll over nodejs
-</details>
-<details>
+
     |----------|------------|-------------------|---------------------------------|-------------------------|---------------------------------|---------------|
         2009        2010            2011                        2012                        2014                           2015                     2019
         BORN       NPM COMES   WINDOW SUPPORT       RYAN LEFT NODEJS PROJECT        FEDOR FORK THE NODE       NODEJS FOUNDATION(A COMMITY)      OPENJS FOUNDATION(COMMITY)=JS FOUNDATION(COMMITY) + NODEJS FOUNDATION(COMMITY)
-                                                 AND ISSAC TOOK THE CONTROL      CONTROVERSY
- </details>  
-<details>
-   <summary> NODE JS-ON SERVER </summary>
+                                                    AND ISSAC TOOK THE CONTROL      CONTROVERSY
+
+    NODE JS-ON SERVER
     Server: A remote computer(cpu) who works remotely
 
         You type "google.com" in the browser.
@@ -63,7 +59,6 @@
         The server processes the request and sends back the web content.
         The browser renders the page.
         The DNS records are cached for future use.
- </details>  
     Node Js is a c++ application with v8 embedded into it.
     JS Engine(v8) is in c++ (github.com/v8/v8) . V8 can be embedded into any cpp application, v8 is used to execute js
     When u write js code -> read by v8(which is in cpp) -> converted into machine code
