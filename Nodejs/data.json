@@ -1,0 +1,16 @@
+{
+    "name":"pranjal Gupta",
+    "gender":"F",
+    "Age":"21",
+    "parents":"lovely",
+    "status":"single",
+    "expected":"2 year",
+    "Boyfriend":"Nope",
+    "qualities":{
+        "handsome":"yes",
+        "rich":"yes",
+        "siblings":"1",
+        "spritual":"medium",
+        "family":["big","loveable","supportive","understanding"]
+    }
+}
